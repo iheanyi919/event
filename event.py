@@ -1,6 +1,7 @@
 #EVENT ADMISSION
 
 guest = ["chinaza", "precious", "Amara", "ozy"]
+guest.append("cliff")
 
 event_Quest_1 = input("please input your name: \n")
 if event_Quest_1 not in guest:
